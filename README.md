@@ -4,7 +4,9 @@
 To develop a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data.
 
 ## Problem Statement and Dataset
+<img width="915" height="540" alt="image" src="https://github.com/user-attachments/assets/6d455782-2ea5-43bd-868a-5d16042b15ab" />
 
+<img width="889" height="409" alt="image" src="https://github.com/user-attachments/assets/3dfdeb43-6fdc-42c9-bed8-65ecae4bbda5" />
 
 
 
@@ -143,15 +145,17 @@ print(f'Actual Price: {actual_prices[-1]}')
 ### OUTPUT
 
 ## Training Loss Over Epochs Plot
+<img width="748" height="882" alt="image" src="https://github.com/user-attachments/assets/dcaa4e83-c619-402b-8b97-80261338b5b9" />
 
 
 
 ## True Stock Price, Predicted Stock Price vs time
+<img width="749" height="520" alt="image" src="https://github.com/user-attachments/assets/0d074488-df6c-49d9-9501-c359a999092b" />
 
 
 
 ### Predictions
-Include the predictions on test data
+
 
 ## RESULT
 Thus, a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data has been developed successfully.
