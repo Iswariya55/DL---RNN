@@ -4,6 +4,8 @@
 To develop a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data.
 
 ## Problem Statement and Dataset
+Develop a Recurrent Neural Network (RNN) model to predict stock prices based on historical data. Preprocess the dataset by handling missing values and normalizing time-series inputs. Train and evaluate the model to accurately forecast future stock trends.
+
 <img width="915" height="540" alt="image" src="https://github.com/user-attachments/assets/6d455782-2ea5-43bd-868a-5d16042b15ab" />
 
 <img width="889" height="409" alt="image" src="https://github.com/user-attachments/assets/3dfdeb43-6fdc-42c9-bed8-65ecae4bbda5" />
